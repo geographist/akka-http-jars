@@ -1,2 +1,5 @@
 *.gem
 lib/jars/*.jar
+.classpath
+.project
+.settings/
