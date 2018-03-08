@@ -3,3 +3,4 @@ lib/jars/*.jar
 .classpath
 .project
 .settings/
+.ruby-version
